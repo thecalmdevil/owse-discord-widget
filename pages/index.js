@@ -5,7 +5,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div className={styles.container}>
-      <Head>
+      <h1>
       <widgetbot
   server="883967767840182362"
   channel="883967771258552372"
@@ -13,7 +13,7 @@ export default function Home() {
   height="100%">
 </widgetbot>
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
-      </Head>
+      </h1>
     </div>
   )
 }
