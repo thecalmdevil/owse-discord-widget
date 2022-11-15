@@ -10,7 +10,7 @@ export default function Home() {
   server="883967767840182362"
   channel="883967771258552372"
   width="100%"
-  height="">
+  height="500">
 </widgetbot>
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
       </Head>
